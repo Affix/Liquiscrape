@@ -1,0 +1,5 @@
+10.0% Banana VM VM
+8.0% Caramel VM VM
+6.0% Custard VM VM
+1.0% Ethyl maltol
+75.0 Base

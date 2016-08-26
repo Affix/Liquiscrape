@@ -1,0 +1,10 @@
+4.0% Banana CA CA
+3.0% Vanilla Bean Ice Cream PA PA
+0.75% Brown sugar FW FW
+0.75% Gingerbread CA CA
+0.7% Arctic Winter FA FA
+0.5% Chocolate Fudge Brownie CA CA
+0.5% Marshmallow ?
+0.5% Pecan FW FW
+0.3% Peanut Butter FLV FLV
+89.0 Base
